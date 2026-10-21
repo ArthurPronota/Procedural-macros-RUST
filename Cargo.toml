@@ -9,8 +9,6 @@ proc-macro = true
 
 
 [dependencies]
-# cargo add proc-macro2@1.0
-proc-macro2 = "1.0"
 # cargo add quote@1.0
 quote = "1.0"
 # cargo add syn@2.0 --features full
